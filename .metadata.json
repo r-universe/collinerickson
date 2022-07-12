@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "ContourFunctions",
-    "oncran": true
-  },
-  {
     "package": "GauPro",
     "oncran": true
   },

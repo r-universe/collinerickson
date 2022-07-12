@@ -13,11 +13,6 @@
 	url = https://github.com/collinerickson/comparer
 	shallow = true
 	registered = true
-[submodule "ContourFunctions"]
-	path = ContourFunctions
-	url = https://github.com/collinerickson/contourfunctions
-	shallow = true
-	registered = true
 [submodule "GauPro"]
 	path = GauPro
 	url = https://github.com/collinerickson/gaupro
