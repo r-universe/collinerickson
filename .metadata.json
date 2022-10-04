@@ -12,14 +12,6 @@
     "oncran": true
   },
   {
-    "package": "GauPro",
-    "oncran": true
-  },
-  {
-    "package": "IGP",
-    "oncran": true
-  },
-  {
     "package": "sFFLHD",
     "oncran": true
   }
