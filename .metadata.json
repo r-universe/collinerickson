@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "GauPro",
+    "oncran": true
+  },
+  {
     "package": "sFFLHD",
     "oncran": true
   }
