@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "mixopt",
+    "oncran": true
+  },
+  {
     "package": "sFFLHD",
     "oncran": true
   }

@@ -23,6 +23,11 @@
 	url = https://github.com/collinerickson/gaupro
 	shallow = true
 	registered = true
+[submodule "mixopt"]
+	path = mixopt
+	url = https://github.com/collinerickson/mixopt
+	shallow = true
+	registered = true
 [submodule "sFFLHD"]
 	path = sFFLHD
 	url = https://github.com/collinerickson/sfflhd
