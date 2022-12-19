@@ -4,5 +4,11 @@
     "url": "https://github.com/CollinErickson/GauPro",
     "via": ["comparer"],
     "from": "comparer"
+  },
+  {
+    "package": "mixopt",
+    "url": "https://github.com/collinerickson/mixopt",
+    "via": ["GauPro"],
+    "from": "GauPro"
   }
 ]
