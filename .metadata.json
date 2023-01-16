@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "IGP",
+    "oncran": true
+  },
+  {
     "package": "mixopt",
     "oncran": true
   },
