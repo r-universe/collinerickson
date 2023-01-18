@@ -8,11 +8,6 @@
 	url = https://github.com/collinerickson/cggp
 	shallow = true
 	registered = true
-[submodule "comparer"]
-	path = comparer
-	url = https://github.com/collinerickson/comparer
-	shallow = true
-	registered = true
 [submodule "ContourFunctions"]
 	path = ContourFunctions
 	url = https://github.com/collinerickson/contourfunctions
