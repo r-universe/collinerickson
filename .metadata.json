@@ -14,5 +14,8 @@
   {
     "package": "sFFLHD",
     "oncran": true
+  },
+  {
+    "package": "IGP"
   }
 ]
