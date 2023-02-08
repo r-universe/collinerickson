@@ -16,6 +16,12 @@
     "oncran": true
   },
   {
+    "package": "GauPro"
+  },
+  {
     "package": "IGP"
+  },
+  {
+    "package": "comparer"
   }
 ]
