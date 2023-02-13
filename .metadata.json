@@ -8,15 +8,16 @@
     "oncran": true
   },
   {
+    "package": "GauPro",
+    "oncran": true
+  },
+  {
     "package": "mixopt",
     "oncran": true
   },
   {
     "package": "sFFLHD",
     "oncran": true
-  },
-  {
-    "package": "GauPro"
   },
   {
     "package": "IGP"

@@ -13,6 +13,11 @@
 	url = https://github.com/collinerickson/contourfunctions
 	shallow = true
 	registered = true
+[submodule "GauPro"]
+	path = GauPro
+	url = https://github.com/collinerickson/gaupro
+	shallow = true
+	registered = true
 [submodule "mixopt"]
 	path = mixopt
 	url = https://github.com/collinerickson/mixopt
@@ -21,11 +26,6 @@
 [submodule "sFFLHD"]
 	path = sFFLHD
 	url = https://github.com/collinerickson/sfflhd
-	shallow = true
-	registered = true
-[submodule "GauPro"]
-	path = GauPro
-	url = https://github.com/collinerickson/gaupro
 	shallow = true
 	registered = true
 [submodule "IGP"]
