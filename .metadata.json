@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "comparer",
+    "oncran": true
+  },
+  {
     "package": "ContourFunctions",
     "oncran": true
   },
@@ -21,8 +25,5 @@
   },
   {
     "package": "IGP"
-  },
-  {
-    "package": "comparer"
   }
 ]
