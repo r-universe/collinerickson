@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GauPro"]
+	path = GauPro
+	url = https://github.com/collinerickson/gaupro
+	shallow = true
+	registered = true
 [submodule "CGGP"]
 	path = CGGP
 	url = https://github.com/collinerickson/cggp
-	shallow = true
-	registered = true
-[submodule "comparer"]
-	path = comparer
-	url = https://github.com/collinerickson/comparer
 	shallow = true
 	registered = true
 [submodule "ContourFunctions"]
@@ -18,14 +18,14 @@
 	url = https://github.com/collinerickson/contourfunctions
 	shallow = true
 	registered = true
-[submodule "GauPro"]
-	path = GauPro
-	url = https://github.com/collinerickson/gaupro
+[submodule "comparer"]
+	path = comparer
+	url = https://github.com/collinerickson/comparer
 	shallow = true
 	registered = true
-[submodule "mixopt"]
-	path = mixopt
-	url = https://github.com/collinerickson/mixopt
+[submodule "IGP"]
+	path = IGP
+	url = https://github.com/collinerickson/igp
 	shallow = true
 	registered = true
 [submodule "sFFLHD"]
@@ -33,8 +33,8 @@
 	url = https://github.com/collinerickson/sfflhd
 	shallow = true
 	registered = true
-[submodule "IGP"]
-	path = IGP
-	url = https://github.com/collinerickson/igp
+[submodule "mixopt"]
+	path = mixopt
+	url = https://github.com/collinerickson/mixopt
 	shallow = true
 	registered = true

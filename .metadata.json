@@ -1,10 +1,10 @@
 [
   {
-    "package": "CGGP",
+    "package": "GauPro",
     "oncran": true
   },
   {
-    "package": "comparer",
+    "package": "CGGP",
     "oncran": true
   },
   {
@@ -12,18 +12,18 @@
     "oncran": true
   },
   {
-    "package": "GauPro",
+    "package": "comparer",
     "oncran": true
   },
   {
-    "package": "mixopt",
-    "oncran": true
+    "package": "IGP"
   },
   {
     "package": "sFFLHD",
     "oncran": true
   },
   {
-    "package": "IGP"
+    "package": "mixopt",
+    "oncran": true
   }
 ]
