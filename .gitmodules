@@ -38,3 +38,13 @@
 	url = https://github.com/collinerickson/sfflhd
 	shallow = true
 	registered = true
+[submodule "splitfngr"]
+	path = splitfngr
+	url = https://github.com/collinerickson/splitfngr
+	shallow = true
+	registered = true
+[submodule "TestFunctions"]
+	path = TestFunctions
+	url = https://github.com/collinerickson/testfunctions
+	shallow = true
+	registered = true

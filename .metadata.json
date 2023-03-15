@@ -25,5 +25,13 @@
   {
     "package": "sFFLHD",
     "oncran": true
+  },
+  {
+    "package": "splitfngr",
+    "oncran": true
+  },
+  {
+    "package": "TestFunctions",
+    "oncran": true
   }
 ]
