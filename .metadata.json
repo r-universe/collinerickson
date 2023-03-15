@@ -1,14 +1,6 @@
 [
   {
-    "package": "GauPro",
-    "oncran": true
-  },
-  {
     "package": "CGGP",
-    "oncran": true
-  },
-  {
-    "package": "ContourFunctions",
     "oncran": true
   },
   {
@@ -16,14 +8,22 @@
     "oncran": true
   },
   {
-    "package": "IGP"
-  },
-  {
-    "package": "sFFLHD",
+    "package": "ContourFunctions",
     "oncran": true
   },
   {
+    "package": "GauPro",
+    "oncran": true
+  },
+  {
+    "package": "IGP"
+  },
+  {
     "package": "mixopt",
+    "oncran": true
+  },
+  {
+    "package": "sFFLHD",
     "oncran": true
   }
 ]
