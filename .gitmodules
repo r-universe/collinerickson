@@ -23,11 +23,6 @@
 	url = https://github.com/collinerickson/gaupro
 	shallow = true
 	registered = true
-[submodule "IGP"]
-	path = IGP
-	url = https://github.com/collinerickson/igp
-	shallow = true
-	registered = true
 [submodule "mixopt"]
 	path = mixopt
 	url = https://github.com/collinerickson/mixopt
