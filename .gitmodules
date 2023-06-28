@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CGGP"]
 	path = CGGP
 	url = https://github.com/collinerickson/cggp
-	shallow = true
-	registered = true
 [submodule "comparer"]
 	path = comparer
 	url = https://github.com/collinerickson/comparer
-	shallow = true
-	registered = true
 [submodule "ContourFunctions"]
 	path = ContourFunctions
 	url = https://github.com/collinerickson/contourfunctions
-	shallow = true
-	registered = true
 [submodule "GauPro"]
 	path = GauPro
 	url = https://github.com/collinerickson/gaupro
-	shallow = true
-	registered = true
 [submodule "mixopt"]
 	path = mixopt
 	url = https://github.com/collinerickson/mixopt
-	shallow = true
-	registered = true
 [submodule "sFFLHD"]
 	path = sFFLHD
 	url = https://github.com/collinerickson/sfflhd
-	shallow = true
-	registered = true
 [submodule "splitfngr"]
 	path = splitfngr
 	url = https://github.com/collinerickson/splitfngr
-	shallow = true
-	registered = true
 [submodule "TestFunctions"]
 	path = TestFunctions
 	url = https://github.com/collinerickson/testfunctions
-	shallow = true
-	registered = true
