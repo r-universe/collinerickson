@@ -5,15 +5,18 @@
 [submodule "CGGP"]
 	path = CGGP
 	url = https://github.com/collinerickson/cggp
-[submodule "comparer"]
-	path = comparer
-	url = https://github.com/collinerickson/comparer
 [submodule "ContourFunctions"]
 	path = ContourFunctions
 	url = https://github.com/collinerickson/contourfunctions
 [submodule "GauPro"]
 	path = GauPro
 	url = https://github.com/collinerickson/gaupro
+[submodule "TestFunctions"]
+	path = TestFunctions
+	url = https://github.com/collinerickson/testfunctions
+[submodule "comparer"]
+	path = comparer
+	url = https://github.com/collinerickson/comparer
 [submodule "mixopt"]
 	path = mixopt
 	url = https://github.com/collinerickson/mixopt
@@ -23,6 +26,3 @@
 [submodule "splitfngr"]
 	path = splitfngr
 	url = https://github.com/collinerickson/splitfngr
-[submodule "TestFunctions"]
-	path = TestFunctions
-	url = https://github.com/collinerickson/testfunctions
