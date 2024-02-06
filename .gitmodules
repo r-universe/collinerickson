@@ -26,3 +26,6 @@
 [submodule "splitfngr"]
 	path = splitfngr
 	url = https://github.com/collinerickson/splitfngr
+[submodule "testthatmulti"]
+	path = testthatmulti
+	url = https://github.com/collinerickson/testthatmulti
