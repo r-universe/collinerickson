@@ -14,9 +14,6 @@
 [submodule "TestFunctions"]
 	path = TestFunctions
 	url = https://github.com/collinerickson/testfunctions
-[submodule "comparer"]
-	path = comparer
-	url = https://github.com/collinerickson/comparer
 [submodule "mixopt"]
 	path = mixopt
 	url = https://github.com/collinerickson/mixopt
